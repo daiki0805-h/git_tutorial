@@ -3,3 +3,5 @@ git status
 Git diff
 Git commit --amend
 git merge
+Conflict
+Pull request
