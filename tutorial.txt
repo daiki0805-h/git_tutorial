@@ -5,3 +5,4 @@ Git commit --amend
 git merge
 Conflict
 Pull request
+Github Flow
